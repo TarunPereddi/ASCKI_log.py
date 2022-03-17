@@ -8,6 +8,15 @@ files to given email and cleans local space.
 
 ## INSTALLATION
 
-**You don't need to do anything for installation just run the script**
+**You don't need to do anything for installation just run the ASCKI_log.exe or ASCKI_log.py**
+
+![github-small](\Images\GIT!.jpg)
 
 
+## USAGE
+
+•**Set your own MAIL and PASSWORD on "ASCKI_log.py" or "ASCKI_log.exe".**
+
+•**Run ASCKI_log on Target Computer**
+
+•**Every 60 seconds,You Get the Data from the Target Computer**
