@@ -10,4 +10,4 @@ files to given email and cleans local space.
 
 **You don't need to do anything for installation just run the script**
 
-![github-small](https://drive.google.com/file/d/196LT1UL41eobDANH-IWx68qwi3TraM13/view?usp=sharing)
+
