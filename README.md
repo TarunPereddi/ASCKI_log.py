@@ -10,7 +10,7 @@ files to given email and cleans local space.
 
 **You don't need to do anything for installation just run the ASCKI_log.exe or ASCKI_log.py**
 
-![github-small](\Images\GIT!.jpg)
+![github-small](https://github.com/TarunPereddi/ASCKI_log.py/blob/main/Images/GIT!.jpg)
 
 
 ## USAGE
